@@ -1,0 +1,88 @@
+/*resortStyles.css*/
+/*S. Tobicash 8/22/19*/
+
+
+/* Style for elements */
+body {background-color: coral;	
+	  background-image: linear-gradient(red, yellow);
+}
+
+/* header ID format */
+#pageTitle {
+  border: 30px solid mediumOrchid;
+  border-radius: 50px 20px;					
+  padding: 50px; 
+  margin: 20px; 
+  width: 400px; 
+
+  text-align: center;
+  background-image: url("sun2.png");
+  background-color: papayaWhip;					
+  background-size: 125px 125px;
+  background-repeat: no-repeat;
+  background-position: left top;
+					
+}
+
+/* h2 format */
+h2 {
+  font-family: "Comic Sans MS", serif;
+  font-size: 20px; 
+  font-weight: bold; 
+  font-style: italic;
+  color: Navy;
+  text-decoration: underline overline;
+}
+
+
+/* class formats */
+.bars {
+  color: purple;
+  font-size: 20px; 
+  font-weight: bold; 
+  font-family: "Times New Roman", Times;
+}
+	  
+.food {
+  color: green;
+  font-size: 20px; 
+  font-weight: bold;
+  font-family: "Times New Roman", Times;	  
+}
+	  
+.fun {
+  color: darkorange;
+  font-size: 20px; 
+  font-weight: bold; 
+  font-family: "Times New Roman", Times;
+}
+	
+.relax {
+  color: darkSlateBlue;
+  font-size: 20px; 
+  font-weight: bold; 
+  font-family: "Times New Roman", Times;
+}
+
+.btnBookIt {
+  background-color: papayaWhip; /*this papayaWhip is for you...*/
+  color: palevioletred;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btnContact {
+  background-color: oldLace; 
+  color: steelblue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+ 
